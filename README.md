@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Ekta-1161/Ekta-1161** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 👋 Hi, I’m Ekta Goyani
 - 🌱 I’m currently learning full stack data science
 - 👀 I’m interested in crunching data, creating insightful interactive dashboards, building models.
