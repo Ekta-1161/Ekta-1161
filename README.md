@@ -11,5 +11,3 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on data science / data analytics project
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Ekta-1161)
 - 📫 How to reach me: ektagoyani61@gmail.com
-- 
--->
